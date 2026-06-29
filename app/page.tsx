@@ -36,3 +36,39 @@ export default function Home() {
     </main>
   );
 }
+<section className="mt-6 border-t border-gray-200 pt-6">
+  <h2 className="text-xl font-semibold uppercase tracking-wide">Work Experience</h2>
+
+  <div className="mt-4 space-y-6">
+    <div>
+      <h3 className="font-semibold">Tesla — Sales and Delivery Advisor</h3>
+      <p className="text-sm text-gray-500">Wesley Chapel, FL • 03/25–Present</p>
+      <ul className="mt-2 list-disc space-y-1 pl-6 text-gray-700">
+        <li>Use internal sales and CRM tools to manage customer inquiries and support the sales process.</li>
+        <li>Provide technical product explanations and ownership guidance to customers.</li>
+        <li>Support delivery operations, administrative tasks, and finance-related documentation.</li>
+        <li>Coordinate local events to create community engagement and sales opportunities.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 className="font-semibold">The Motor Enclave — Event and Motorsport Staff</h3>
+      <p className="text-sm text-gray-500">Tampa, FL • 02/25–Present</p>
+      <ul className="mt-2 list-disc space-y-1 pl-6 text-gray-700">
+        <li>Support motorsports activities as a track marshal.</li>
+        <li>Monitor on-track operations and communicate to maintain safety and flow.</li>
+        <li>Support planning and execution of large-scale automotive events.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 className="font-semibold">Taylor Morrison — Lifestyle Concierge</h3>
+      <p className="text-sm text-gray-500">Wesley Chapel, FL • 02/24–02/25</p>
+      <ul className="mt-2 list-disc space-y-1 pl-6 text-gray-700">
+        <li>Served as a front-desk receptionist for a resort-style residential community.</li>
+        <li>Managed email correspondence and organized HOA-related documents.</li>
+        <li>Assisted with daily administrative and operational tasks.</li>
+      </ul>
+    </div>
+  </div>
+</section>
