@@ -111,5 +111,7 @@ export default function Home() {
   <p className="mt-3 text-gray-700">
     Completed 100+ hours of community service with Feeding Tampa Bay, Advent Health, and other organizations.
   </p>
-  
+  <footer className="mt-8 border-t border-gray-200 pt-4 text-center text-sm text-gray-500">
+  Built with Next.js and Tailwind CSS
+</footer>
 </section>
