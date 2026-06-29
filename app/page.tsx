@@ -11,6 +11,27 @@ export default function Home() {
             automotive sales, motorsports operations, and technology-driven environments.
           </p>
         </header>
+        <section className="mt-6">
+  <h2 className="text-xl font-semibold uppercase tracking-wide">Education</h2>
+
+  <div className="mt-3 space-y-3">
+    <div>
+      <h3 className="font-semibold">University of South Florida</h3>
+      <p className="text-gray-700">
+        Pursuing Bachelor of Science in Information Assurance & Cybersecurity Management
+      </p>
+      <p className="text-sm text-gray-500">Tampa, FL • 08/25–Present</p>
+    </div>
+
+    <div>
+      <h3 className="font-semibold">Hillsborough Community College</h3>
+      <p className="text-gray-700">
+        Associate of Arts concentrating in Information Technology
+      </p>
+      <p className="text-sm text-gray-500">Brandon, FL • 08/23–05/25</p>
+    </div>
+  </div>
+</section>
       </section>
     </main>
   );
