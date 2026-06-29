@@ -72,3 +72,44 @@ export default function Home() {
     </div>
   </div>
 </section>
+<section className="mt-6 border-t border-gray-200 pt-6">
+  <h2 className="text-xl font-semibold uppercase tracking-wide">Skills & Certifications</h2>
+
+  <div className="mt-3 grid gap-4 md:grid-cols-2">
+    <div>
+      <h3 className="font-semibold">Certifications</h3>
+      <p className="text-gray-700">
+        Google&apos;s Introduction to Cybersecurity; CompTIA Security+ in progress
+      </p>
+    </div>
+
+    <div>
+      <h3 className="font-semibold">Technical Skills</h3>
+      <p className="text-gray-700">
+        Tableau, Microsoft Office, Canva, Internal Sales Systems, KPI Tracking
+      </p>
+    </div>
+
+    <div>
+      <h3 className="font-semibold">Professional Skills</h3>
+      <p className="text-gray-700">
+        Customer-Focused Mindset, Professionalism, Performance, Team-Oriented, Detail Awareness
+      </p>
+    </div>
+
+    <div>
+      <h3 className="font-semibold">Interests</h3>
+      <p className="text-gray-700">
+        Automotive, Community Events, Cybersecurity, Technology-Driven Operations
+      </p>
+    </div>
+  </div>
+</section>
+
+<section className="mt-6 border-t border-gray-200 pt-6">
+  <h2 className="text-xl font-semibold uppercase tracking-wide">Volunteerism</h2>
+  <p className="mt-3 text-gray-700">
+    Completed 100+ hours of community service with Feeding Tampa Bay, Advent Health, and other organizations.
+  </p>
+  
+</section>
