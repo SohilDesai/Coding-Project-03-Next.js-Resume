@@ -1,4 +1,3 @@
-Add resume header and summary
 export default function Home() {
   return (
     <main className="min-h-screen bg-gray-100 px-6 py-10 text-gray-900">
